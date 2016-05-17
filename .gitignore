@@ -1,0 +1,8 @@
+plugins/
+hooks/
+/platforms/
+/test/
+/www/
+/bower_components/
+/node_modules/
+/nbproject/private/
