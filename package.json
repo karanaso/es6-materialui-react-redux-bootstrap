@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha --compilers js:babel-register --recursive",
-    "test:watch": "npm test -- --watch"
+    "test:watch": "npm test --watch"
   },
   "author": "",
   "license": "ISC",
@@ -46,6 +46,8 @@
     "browserify": "^12.0.1",
     "chai": "^3.5.0",
     "chair": "0.0.0",
+    "deep-freeze": "0.0.1",
+    "expect": "^1.20.1",
     "gulp-concat": "^2.6.0",
     "gulp-less": "^3.0.5",
     "gulp-livereload": "^3.8.1",
